@@ -1,0 +1,2 @@
+# Rogue-game-engine
+Designed a simple player vs monsters battle game with a game menu, a game map where player and monsters can move around and pick up items for levelling up or healing, and a battle field where the player will and encountered monsters will attack each other. (Noted: The code on this website is from a UniMelb project and genuinely used for personal benefits of the author, any copying behaviour for Uni assessment may lead to academic misconduct.)
